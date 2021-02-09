@@ -25,8 +25,7 @@ class App extends Component {
         </button>
         {this.state.showMessage && (
           <p>
-            Hello, I've learnt to use the full-stack evaluation tool. This makes
-            me so happy
+            Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy
           </p>
         )}
       </div>
