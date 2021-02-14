@@ -24,7 +24,7 @@ class App extends Component {
           Open
         </button>
         {this.state.showMessage && (
-          <p>
+          <p id="para">
             Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy
           </p>
         )}
